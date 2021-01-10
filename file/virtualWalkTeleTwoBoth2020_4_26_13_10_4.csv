@@ -1,0 +1,14 @@
+condition,objectSide,handUsed,blockNumber,density,width(cm),completionTime(ms),errorCount
+
+virtualWalkTeleTwoBoth,right;right;right;left;left;left;left;left;right;right;,right;right;right;right;right;right;left;left;right;right;,1,10,10,48654,0
+
+virtualWalkTeleTwoBoth,right;right;right;right;right;left;left;left;left;left;,right;right;right;right;right;left;left;left;left;left;,2,10,30,24390,3
+
+virtualWalkTeleTwoBoth,left;left;left;left;right;right;right;right;right;left;,left;left;left;left;right;right;right;right;right;left;,3,10,20,46797,7
+
+virtualWalkTeleTwoBoth,left;left;left;left;left;left;left;left;left;left;right;right;right;right;right;right;right;right;right;right;,left;left;left;left;left;left;left;left;left;left;left;left;right;right;right;left;left;right;right;right;,4,20,20,74992,9
+
+virtualWalkTeleTwoBoth,right;right;left;left;left;left;left;left;left;left;left;left;right;right;right;right;right;right;right;right;,right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;,5,20,30,46179,4
+
+virtualWalkTeleTwoBoth,right;right;right;right;right;right;right;right;right;right;left;left;left;left;left;left;left;left;left;left;,right;right;right;right;right;right;right;right;right;right;left;left;left;left;left;left;left;left;left;left;,6,20,10,53352,2
+

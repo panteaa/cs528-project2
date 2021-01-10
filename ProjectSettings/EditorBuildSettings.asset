@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Farm/Scenes/ExampleScene.unity
+    guid: 33a770456cf624c41838a4ec1a1de55f
+  - enabled: 1
+    path: Assets/Scenes-p/c1Z-v2-withoutWalkOne.unity
+    guid: 64ac1b9cad2ef4985993edf3d4211c60
+  - enabled: 1
+    path: Assets/Scenes-p/c2X-v2-withoutWalkTwo.unity
+    guid: e34047b946d264deb966254463851e49
+  - enabled: 1
+    path: Assets/Scenes-p/c3C-v2-actualWalkOne.unity
+    guid: a9716d1540c024c87a4fe5311fad61b8
+  - enabled: 1
+    path: Assets/Scenes-p/c4V-v2-actualWalkTwo.unity
+    guid: b6953df1be569433b99058a36b35ed8f
+  - enabled: 1
+    path: Assets/Scenes-p/c5B-v2-virtualWalkTeleOne.unity
+    guid: ac6cbf80673a040eebdc4fd067e7bf8d
+  - enabled: 1
+    path: Assets/Scenes-p/c6N-v2-virtualWalkTeleTwoBoth.unity
+    guid: 1047de3a9fc2340cb88c2e6e3075e2fe
+  - enabled: 1
+    path: Assets/Scenes-p/c7M-v2-virtualWalkTeleTwoEach.unity
+    guid: 58296eebc629f4f22b5cab16cda5bd7f
+  m_configObjects: {}

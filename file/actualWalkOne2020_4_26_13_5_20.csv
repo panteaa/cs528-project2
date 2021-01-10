@@ -1,0 +1,14 @@
+condition,objectSide,handUsed,blockNumber,density,width(cm),completionTime(ms),errorCount
+
+actualWalkOne,right;right;right;right;right;left;left;left;left;left;,right;right;right;right;right;right;right;right;right;right;,1,10,10,61882,2
+
+actualWalkOne,left;left;left;left;right;right;right;right;right;right;right;right;right;right;left;left;left;left;left;left;,right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;,2,20,30,62278,4
+
+actualWalkOne,left;left;left;left;left;right;right;right;right;right;,right;right;right;right;right;right;right;right;right;right;,3,10,20,24174,1
+
+actualWalkOne,right;right;right;right;right;right;right;right;right;right;left;left;left;left;left;left;left;left;left;left;,right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;,4,20,20,33004,2
+
+actualWalkOne,left;left;left;left;right;right;right;right;right;left;,right;right;right;right;right;right;right;right;right;right;,5,10,30,22720,3
+
+actualWalkOne,left;left;left;left;left;left;left;left;left;left;right;right;right;right;right;right;right;right;right;right;,right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;right;,6,20,10,62142,3
+
